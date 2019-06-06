@@ -1,0 +1,14 @@
+.nav-bg{
+  background: #232f3e;
+}
+.ml-auto{
+  margin-left: auto!important;
+}
+.p-15 {
+  padding: 15px;
+}
+
+.align-item-center {
+  display: flex;
+  align-items: center;
+}

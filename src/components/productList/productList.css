@@ -1,0 +1,103 @@
+/* override material css */
+.MuiGrid-spacing-xs-3 {
+  margin: 0 !important;
+  width: 100% !important;
+}
+
+.item-container:hover {
+  border: 1px solid #ccc;
+  border-radius: 20px;
+  cursor: pointer;
+  box-shadow: 0px 0px 20px #ccc;
+}
+
+.product-img {
+  height: 220px;
+  width: 100%;
+  background: #ccc;
+  border-radius: 10px;
+}
+
+.product-detail {
+  margin: 8px 14px !important;
+}
+
+.text-theme {
+  color: #3e71e4 !important;
+}
+
+.product-price {
+  font-size: 25px !important;
+  font-weight: 500 !important;
+  color: #3e71e4 !important;
+}
+
+.product-price-unit {
+  color: #b1abab !important;
+  font-weight: 400 !important;
+  font-size: 23px !important;
+  margin-left: 5px;
+}
+
+.product-name {
+  font-size: 20px !important;
+  font-weight: bold !important;
+  color: #232f3e !important;
+}
+
+.MuiLink-underlineHover {
+  text-decoration: none !important;
+  cursor: pointer;
+}
+
+.img-box {
+  height: 100px;
+  width: 100px;
+  background: #ccc;
+  border-radius: 10px;
+}
+
+.separator {
+  border-left: 1px solid #ccc;
+  height: 100vh;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.align-item-center {
+  display: flex;
+  align-items: center;
+}
+
+.MuiGrid-grid-xs-2 {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.product-btn:hover {
+  background-color: transparent !important;
+}
+
+.main {
+  margin-top: 60px !important;
+}
+
+.cart-title {
+  font-size: 30px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.success {
+  background-color: #43a047 !important;
+}
+
+.close-icon {
+  cursor: pointer;
+  margin-left: 5px;
+}

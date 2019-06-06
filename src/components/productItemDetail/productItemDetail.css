@@ -1,0 +1,61 @@
+/* override material css */
+
+.MuiGrid-spacing-xs-3 {
+  margin: 0 !important;
+  width: 100% !important;
+}
+.item-description {
+  color: #6f6b6b;
+  margin-bottom: 10px !important;
+}
+
+.choices {
+  color: dimgrey;
+}
+
+.drawer {
+  flex-shrink: 0;
+}
+
+.MuiDrawer-paper {
+  width: 50% !important;
+}
+
+.MuiGrid-grid-xs-2 {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.img-box {
+  height: 100px;
+  width: 100px;
+  background: #ccc;
+  border-radius: 10px;
+}
+
+.separator {
+  border-left: 1px solid #ccc;
+  height: 100vh;
+}
+
+.align-item-center {
+  display: flex;
+  align-items: center;
+}
+
+.btn-theme {
+  background: #3e71e4 !important;
+  color: #fff !important;
+}
+
+.btn-theme:hover {
+  color: #3e71e4 !important;
+  background: transparent !important;
+  border: 1px solid #3e71e4 !important;
+}
+
+.category-title {
+  font-size: 20px;
+  border-bottom: 2px solid #ccc;
+}

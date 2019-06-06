@@ -1,0 +1,79 @@
+/* override material css */
+.MuiGrid-spacing-xs-3 {
+  margin: 0 !important;
+  width: 100% !important;
+}
+
+.MuiGrid-grid-xs-2 {
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+}
+
+.nav-bg {
+  background: #232f3e;
+}
+
+.product-img {
+  height: 200px;
+  width: 100%;
+  background: #ccc;
+  border-radius: 10px;
+}
+
+.product-detail {
+  margin: 8px 14px !important;
+}
+
+.ml-auto {
+  margin-left: auto !important;
+}
+
+.p-15 {
+  padding: 15px;
+}
+
+.mt-10 {
+  margin-top: 10px;
+}
+
+.img-box {
+  height: 100px;
+  width: 100px;
+  background: #ccc;
+  border-radius: 10px;
+}
+
+.separator {
+  border-left: 1px solid #ccc;
+  height: 100vh;
+}
+
+.d-flex {
+  display: flex;
+}
+
+.align-item-center {
+  display: flex;
+  align-items: center;
+}
+
+.item-total {
+  font-size: 20px !important;
+  margin-top: 20px !important;
+  text-align: left !important;
+}
+
+.no-product-found {
+  font-size: 20px !important;
+  margin-top: 20px !important;
+  text-align: center !important;
+}
+
+.main-shadow {
+  box-shadow: -6px 0px 11px #ccc;
+}
+.proceed-to-cart {
+  float: right;
+  margin-top: -4px !important;
+}
