@@ -10,6 +10,6 @@
     
 ## Screenshot
 
-![ScreenShot](https://github.com/nirajradadiya/react-tree/blob/master/screen1.png)
-![ScreenShot](https://github.com/nirajradadiya/react-tree/blob/master/screen2.png)
-![ScreenShot](https://github.com/nirajradadiya/react-tree/blob/master/screen3.png)
+![ScreenShot](https://github.com/nirajradadiya/react-shopping-cart/blob/master/screen1.png)
+![ScreenShot](https://github.com/nirajradadiya/react-shopping-cart/blob/master/screen2.png)
+![ScreenShot](https://github.com/nirajradadiya/react-shopping-cart/blob/master/screen3.png)
